@@ -1,0 +1,16 @@
+[
+  {
+    "type": "text",
+    "text": "The Mahabharata is a big old Indian story about a war between the Pandavas and Kauravas. It talks about right and wrong."
+  },
+  {
+    "type": "text",
+    "text": "Krishna told Arjuna, a Pandava, important advice in the Bhagavad Gita before the big fight."
+  }
+  // Add more text parts here
+]
+{
+  "type": "jpg",
+  "url": "https://www.bing.com/images/search?view=detailV2&ccid=Ybt9aQCs&id=26109EEE7AED59493465BC887AF2466689AA861D&thid=OIP.Ybt9aQCsocRxNc52YfaMxgHaFe&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f2010628.jpg&exph=1420&expw=1920&q=mahabharat&simid=608022333380185513&FORM=IRPRST&ck=72112A5E85AA3979ACF7945159E6BEA2&selectedIndex=0&itb=0",
+  "description": "The battlefield where the war happened"
+}
